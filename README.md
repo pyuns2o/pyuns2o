@@ -28,7 +28,7 @@
 ### 😄 Interests
 - Machine Learning & Deep Learning
 - Computer Vision
-- Statistical Analysis & Hypothesis Testing
+- Statistical Analysis
 - User Behavior Analytics 
 
 
