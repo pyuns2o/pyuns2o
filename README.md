@@ -23,14 +23,16 @@
 ### 💼 Career
 - Data Analyst Assistant, 브레이브모바일 (숨고) `2024.07 ~ 2025.02`  
 - 전략기획팀 정보분석파트 인턴, 이연에프엔씨 `2024.03 ~ 2024.06`  
-- 학부연구생, [CAMIN LAB](https://www.caminlab.com/) `2022.06 ~ 2024.02`  
+- 학부연구생, [CAMIN LAB](https://www.caminlab.com/) `2022.06 ~ 2024.02`
+
+### 📄 Publication
+- **Journal Papers** : 체질량지수(BMI)와 대뇌 피질 미세구조의 관계 분석, [Heliyon](https://www.cell.com/heliyon/fulltext/S2405-8440(24)09165-5) `2024.06`
+- **Reference Papers** : 태아의 T2 MRI 영상을 기반으로 T1 MRI 영상을 합성하는 GAN 모델 개발, [OHBM, pp.3007-3008](https://apertureneuro.org/article/120594-abstract-book-4-ohbm-2024-annual-meeting) `2024.06`      
 
 ### 😄 Interests
 - Machine Learning & Deep Learning
 - Computer Vision
 - Statistical Analysis
-- User Behavior Analytics 
-
 
 ## 🛠️ Skills
 
