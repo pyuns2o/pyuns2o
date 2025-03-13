@@ -7,10 +7,7 @@
 - 반복적인 업무는 자동화하고, 확보된 시간은 인사이트 도출에 집중하는 것이 제가 지향하는 업무 방식입니다.
 
 함께 성장할 수 있는 기회를 항상 찾고 있습니다! 🚀
-
-📄 [이력서 보기](https://github.com/pyuns2o/pyuns2o/blob/main/%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A50313.pdf)  
-📑 [포트폴리오 보기](#)  
-✍️ [블로그 방문하기](https://ityunseo.tistory.com/)  
+[블로그 방문하기](https://ityunseo.tistory.com/)  
 
 
 ## 🔭 About me
