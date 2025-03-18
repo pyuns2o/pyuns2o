@@ -29,8 +29,8 @@
 
 ### 😄 Interests
 - Machine Learning & Deep Learning
-- Computer Vision
 - Statistical Analysis
+- computer vision
 
 ## 🛠️ Skills
 
