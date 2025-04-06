@@ -49,3 +49,11 @@
 ### ML, DL stacks
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)"/>
+
+---
+
+<div align="center">
+  <a href="https://github.com/pyuns2o">
+    <img src="https://komarev.com/ghpvc/?username=pyuns2o&color=lightgrey" alt="GitHub 방문자 수" />
+  </a>
+</div>
