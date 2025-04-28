@@ -30,7 +30,8 @@
 ### 😄 Interests
 - Machine Learning & Deep Learning
 - Statistical Analysis
-- computer vision
+- User Behavior Analysis
+- Computer Vision
 
 ## 🛠️ Skills
 
@@ -40,15 +41,15 @@
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-007ACC?style=flat&logo=R&logoColor=white"/>
 
+### Data Analysis & Data Science
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=round-square&logo=pytorch&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=round-square&logo=scikitlearn&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=round-square&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=round-square&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=round-square&logo=plotly&logoColor=white)  
+
 ### Tools & IDEs
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-3776AB?style=flat&logo=Visual Studio Code&logoColor=white"/>
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=round-square&logo=visualstudiocode&logoColor=white)
 <img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-
-### ML, DL stacks
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)"/>
 
 ---
 
