@@ -16,7 +16,7 @@
 ### 🎓 Education
 - B.S. in Data Science, 인하대학교 `2021.03 ~ 2025.08 (졸업 예정)`  
   - 산업경영공학과 부전공  
-  - 학점: 4.19 / 4.5  
+  - 학점: 4.21 / 4.5  
 
 ### 💼 Career
 - Data Analyst Assistant, 브레이브모바일 (숨고) `2024.07 ~ 2025.02` (9개월)
@@ -28,7 +28,6 @@
 - **Reference Papers** : 태아의 T2 MRI 영상을 기반으로 T1 MRI 영상을 합성하는 GAN 모델 개발, [OHBM, pp.3007-3008](https://apertureneuro.org/article/120594-abstract-book-4-ohbm-2024-annual-meeting) `2024.06`      
 
 ### 😄 Interests
-- Machine Learning & Deep Learning
 - Statistical Analysis
 - User Behavior Analysis
 - Computer Vision
