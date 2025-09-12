@@ -16,7 +16,7 @@
 ## 🔭 About me
 
 ### 🎓 Education
-- B.S. in Data Science, 인하대학교 `2021.03 ~ 2026.02 (졸업 예정)`  
+- B.S. in Data Science, OO대학교 `2021.03 ~ 2026.02 (졸업 예정)`  
   - 산업경영공학과 부전공  
   - 학점: 4.21 / 4.5  
 
