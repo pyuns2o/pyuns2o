@@ -10,7 +10,7 @@
   - 학점: 4.21 / 4.5  
 
 ### 💼 Career
-- Data Analyst & Scientist, 롯데이노베이트 `2026.02 ~ 현재`
+- AI Engineer, 롯데이노베이트 `2026.02 ~ 현재`
 - Data Analyst Assistant, 브레이브모바일 (숨고) `2024.07 ~ 2025.02` (8개월)
 - 학부연구생, [CAMIN LAB](https://www.caminlab.com/) `2022.06 ~ 2024.02` (1년 8개월)
 
